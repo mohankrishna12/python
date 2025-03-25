@@ -1,7 +1,7 @@
 # python
 Python Simplified
 
-###Will be Updated
+##Will be Updated
 
 
 
